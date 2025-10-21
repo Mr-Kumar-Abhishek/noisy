@@ -11,7 +11,13 @@
         "https://wikipedia.org",
         "https://youtube.com",
         "https://github.com",
-        "https://medium.com"
+        "https://medium.com",
+        "https://www.imdb.com",
+        "https://www.bbc.com",
+        "https://www.nytimes.com",
+        "https://www.theguardian.com",
+        "https://www.amazon.in/",
+        "https://www.amazon.com/"
     ],
     "blacklisted_urls": [
         "https://t.co",
