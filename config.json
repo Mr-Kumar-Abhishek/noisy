@@ -17,7 +17,10 @@
         "https://www.nytimes.com",
         "https://www.theguardian.com",
         "https://www.amazon.in/",
-        "https://www.amazon.com/"
+        "https://www.amazon.com/",
+        "https://etsy.com",
+        "https://stackoverflow.com",
+        "https://web.whatsapp.com/"
     ],
     "blacklisted_urls": [
         "https://t.co",
