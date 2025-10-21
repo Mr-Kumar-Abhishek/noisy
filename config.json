@@ -19,8 +19,7 @@
         "https://www.amazon.in/",
         "https://www.amazon.com/",
         "https://etsy.com",
-        "https://stackoverflow.com",
-        "https://web.whatsapp.com/"
+        "https://stackoverflow.com"
     ],
     "blacklisted_urls": [
         "https://t.co",
@@ -43,6 +42,8 @@
         ".iso"
     ],
     "user_agents": [
+        "WhatsApp/2.24.20.89 Android/14 Device/motorola-moto_g24",
+        "WhatsApp/2.24.20.89 Android/12 Device/INFINIX-Infinix_X669C",
         "Mozilla/5.0 (Linux; Android 12; PSD-AL00 Build/HUAWEIPSD-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
         "Mozilla/5.0 (Linux; U; Android 12; zh-Hans-CN; ADA-AL00 Build/HUAWEIADA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Quark/6.11.2.531 Mobile Safari/537.36",
         "Mozilla/5.0 (Linux; Android 12; HBP-LX9 Build/HUAWEIHBP-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
